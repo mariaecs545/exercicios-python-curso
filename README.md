@@ -37,6 +37,7 @@ Cada arquivo segue o padrão `exNNN.py`, onde NNN é o número do exercício.
 ### 📌 Referência
 
 Curso disponível gratuitamente em: [Curso em Vídeo - Python 3](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
+E também no Youtube!
 
 ---
 
