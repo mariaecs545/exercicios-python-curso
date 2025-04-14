@@ -1,17 +1,46 @@
-# Exercícios de Python – Curso de Python 3 - Curso em Vídeo
+# 🐍 Exercícios em Python - Curso em Vídeo
 
-Este repositório contém 45 exercícios resolvidos durante o curso de Python utilizando o PyCharm.
+Este repositório contém os exercícios desenvolvidos durante o curso **"Python 3 - Mundo 1"** ministrado pelo professor **Gustavo Guanabara** no canal **Curso em Vídeo**.
 
-📚 **Curso**: [Curso de Python 3 - Curso em Vídeo]  
-🚀 **Objetivo**: Praticar lógica de programação e os fundamentos da linguagem Python.
+## 📚 Sobre o Projeto
 
-## 📁 Estrutura
-Os arquivos estão organizados como `ex001.py`, `ex002.py`, ..., até `ex045.py`.
+O objetivo destes exercícios é praticar a lógica de programação e os conceitos básicos da linguagem **Python**.
 
-## 🛠️ Tecnologias
-- Python 3.13
-- PyCharm (IDE)
+Cada arquivo contém um exercício individual, com numeração baseada na sequência do curso.
+
+## 🚀 Tecnologias utilizadas
+
+- [x] Python 3.13
+- [x] PyCharm (IDE utilizada)
+- [x] Git e GitHub para versionamento
+
+## 🧠 O que eu aprendi até agora
+
+- Sintaxe básica do Python
+- Tipos de dados: `int`, `float`, `str`, `bool`
+- Operadores aritméticos e lógicos
+- Entrada e saída de dados (`input()` / `print()`)
+- Condicionais (`if`, `else`, `elif`)
+- Estruturas de repetição (`for`, `while`)
+
+## 📂 Estrutura
+
+Cada arquivo segue o padrão `exNNN.py`, onde NNN é o número do exercício.
+
+## ✨ Próximos passos
+
+- Adicionar mais exercícios à medida que avanço no curso
+- Comentar melhor cada exercício com explicações
 
 ---
 
-💡 Esse repositório será atualizado conforme avanço nos estudos.
+### 📌 Referência
+
+Curso disponível gratuitamente em: [Curso em Vídeo - Python 3](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
+
+---
+
+### 💻 Sobre mim
+
+Sou estudante de Ciência da Computação na UFOP, apaixonada por tecnologia e em constante aprendizado. Estou explorando Python com foco em **Ciência de Dados** e praticando versionamento com **GitHub**. 🚀
+
